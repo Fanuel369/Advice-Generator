@@ -48,7 +48,7 @@ body {
 
 #advice {
     align-self: center;
-    font-weight: 500;
+    font-weight: 700;
     font-family: Manrope-Bold;
     font-size: 1.5em;
     background-position: center;
@@ -84,6 +84,7 @@ button img {
 
 #idname {
     font-family: Manrope;
+    font-weight: 700;
     align-self: center;
     letter-spacing: 4.5px;
     font-size: 12px;
@@ -94,6 +95,7 @@ button img {
 
 #id {
     margin-right: 1px;
+    font-weight: 700;
 }
 
 .display {
