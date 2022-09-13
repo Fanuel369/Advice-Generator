@@ -42,8 +42,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: <a href="">https://bejewelled-mandazi-78b5fb.netlify.app/</a>
-- Live Site URL: <a href="">https://bejewelled-mandazi-78b5fb.netlify.app/S</a>
+- Solution URL: <a href="https://bejewelled-mandazi-78b5fb.netlify.app/">url</a>
+- Live Site URL: <a href="https://bejewelled-mandazi-78b5fb.netlify.app/">url</a>
 
 ## My process
 
